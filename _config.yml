@@ -1,7 +1,7 @@
 name: Mysterium
 favicon: null
-layout_spectrum: 0.14928
-typography_spectrum: 0.81552
+layout_spectrum: 0.44413
+typography_spectrum: 0.72094
 title: Mysterium - The Annual Celebration of All Things MYST
 cta:
   domain: null
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.1875
   lightness: 0.8375358132179826
   saturation: 0.25
-  rhythmicContrast: 0.18637086334638298
+  rhythmicContrast: 0.5
 purpose: []
