@@ -2,6 +2,7 @@ name: Mysterium
 favicon: null
 layout_spectrum: 0.03941294318065047
 typography_spectrum: 0.6152371913194656
+title: Mysterium
 cta:
   domain: null
   bucket: null
