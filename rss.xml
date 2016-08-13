@@ -4,21 +4,21 @@
         <description><![CDATA[Mysterium - The Annual Celebration of All Things MYST]]></description>
         <link>https://thegrid.ai/mysterium/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Aug 2016 03:50:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2016 03:50:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mysterium/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/54ed7b51-2408-4898-8545-762b13c112cb.jpg">]]></description>
+            <link>https://thegrid.ai/mysterium/mysterium-2017-will-be-in-orlando-florida/index.html</link>
+            <guid isPermaLink="false">b6c89b99-917a-48d5-be51-41b17f26c50b</guid>
+            <pubDate>Sat, 13 Aug 2016 03:50:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Policies</p>]]></description>
             <link>https://thegrid.ai/mysterium/policies/index.html</link>
             <guid isPermaLink="false">a6ffbda9-54ec-4229-9d90-bd3b279b724d</guid>
             <pubDate>Sat, 13 Aug 2016 03:50:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/54ed7b51-2408-4898-8545-762b13c112cb.jpg">]]></description>
-            <link>https://thegrid.ai/mysterium/mysterium-2017-will-be-in-orlando-florida/index.html</link>
-            <guid isPermaLink="false">b6c89b99-917a-48d5-be51-41b17f26c50b</guid>
-            <pubDate>Sat, 13 Aug 2016 03:40:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
