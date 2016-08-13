@@ -1,7 +1,7 @@
 name: Mysterium
 favicon: null
-layout_spectrum: 0.03941294318065047
-typography_spectrum: 0.6152371913194656
+layout_spectrum: 0.14928
+typography_spectrum: 0.81552
 title: Mysterium
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.686629107221961
+    - '#fef8ee'
+    - '#472003'
+    - '#b5ad97'
+    - '#775941'
+    - '#e8903c'
+  brandStrength: 0.625
   lightness: 0.8375358132179826
   saturation: 0.7540802026633173
   rhythmicContrast: 0.18637086334638298
