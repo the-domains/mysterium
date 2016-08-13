@@ -5,15 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Mysterium 2017 will be in Orlando, Florida!'
-datePublished: '2016-08-13T03:40:48.934Z'
-dateModified: '2016-08-13T03:40:19.818Z'
+datePublished: '2016-08-13T03:50:54.119Z'
+dateModified: '2016-08-13T03:40:56.522Z'
 title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-08-13-mysterium-2017-will-be-in-orlando-florida.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-08-13-mysterium-2017-will-be-in-orlando-florida.md
 url: mysterium-2017-will-be-in-orlando-florida/index.html
 _type: Article
 
