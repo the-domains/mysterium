@@ -1,20 +1,15 @@
 name: Mysterium
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8066f4f-634b-4d25-8a60-c2b12fc9c568.jpg
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/48742a79-c5bb-47e0-9118-c9cb5de2f8ff.jpg
 layout_spectrum: 0.44413
 typography_spectrum: 0.72094
-title: Mysterium
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+cta: {}
+analytics: {}
 opengraph:
-  image: null
-  type: null
-  appId: null
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#fffeed'
@@ -27,3 +22,10 @@ color:
   saturation: 0.0625
   rhythmicContrast: 0.5
 purpose: []
+title: Mysterium
+author:
+  name: Falling Man Group
+  url: ''
+  email: ''
+content_rating:
+  adult: false
