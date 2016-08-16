@@ -29,6 +29,9 @@ navigation:
   - name: About
     id: 6e351212-ff9c-493e-a096-00cc0bc996be
     type: content
+  - name: Policies
+    id: a6ffbda9-54ec-4229-9d90-bd3b279b724d
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8066f4f-634b-4d25-8a60-c2b12fc9c568.jpg
 title: Mysterium
